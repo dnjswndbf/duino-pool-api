@@ -1,1 +1,1 @@
-# pulse
+# Duino coin pool alternative API
